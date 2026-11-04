@@ -124,25 +124,6 @@ Mình là **Nguyễn Doãn Nhân**, kỹ sư phần mềm tốt nghiệp **Đạ
 
 <div align="center">
 
-## 📊 My GitHub Stats
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=nhan137&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhan137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=nhan137&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhan137&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🤝 Liên hệ
 
 [![Gmail](https://img.shields.io/badge/Gmail-nhannguyen.13072003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhannguyen.13072003@gmail.com)
