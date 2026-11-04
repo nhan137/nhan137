@@ -22,8 +22,12 @@
 ## 👨‍💻 Giới thiệu
 
 </div>
-### WELCOME TO MY PAGE 👏👏👏
-My name is Nguyễn Doãn Nhân. I am a Software Engineering graduate from Duy Tan University, specializing in Backend Development with Node.js and PHP. 
+WELCOME TO MY PAGE 👏👏👏
+Mình là **Nguyễn Doãn Nhân**, kỹ sư phần mềm tốt nghiệp **Đại học Duy Tân** (chuyên ngành Software Engineering).
+
+🎯 Hướng đến vị trí **Backend Developer**, tập trung vào **Node.js** và **PHP**
+🌱 Đang học thêm về kiến trúc backend, bảo mật API và triển khai hệ thống
+📍 Đà Nẵng, Việt Nam
 ---
 <div align="center">
 
