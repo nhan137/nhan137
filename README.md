@@ -22,15 +22,17 @@
 ## 👨‍💻 Giới thiệu
 
 </div>
-WELCOME TO MY PAGE 👏👏👏
-Mình là Nguyễn Doãn Nhân, kỹ sư phần mềm tốt nghiệp Đại học Duy Tân (chuyên ngành Software Engineering, GPA 3.30/4.0, danh hiệu Good Student năm học 2023-2024).
 
-🎯 Hướng đến vị trí Backend Developer, tập trung vào Node.js và PHP
-🏗️ Có kinh nghiệm thiết kế RESTful API, cơ sở dữ liệu quan hệ và hệ thống phân quyền theo vai trò qua 2 dự án nhóm, đảm nhiệm vai trò Team Leader
-🔭 Đang xây dựng hệ thống quản lý trạm sạc xe điện thông minh
-🌱 Đang học thêm về kiến trúc backend, bảo mật API và triển khai hệ thống
-📍 Đà Nẵng, Việt Nam
+Mình là **Nguyễn Doãn Nhân**, kỹ sư phần mềm tốt nghiệp **Đại học Duy Tân** (chuyên ngành Software Engineering, GPA 3.30/4.0, danh hiệu *Good Student* năm học 2023-2024).
+
+- 🎯 Hướng đến vị trí **Backend Developer**, tập trung vào **Node.js** và **PHP**
+- 🏗️ Có kinh nghiệm thiết kế **RESTful API**, cơ sở dữ liệu quan hệ và hệ thống **phân quyền theo vai trò** qua 2 dự án nhóm, đảm nhiệm vai trò **Team Leader**
+- 🔭 Đang xây dựng hệ thống quản lý trạm sạc xe điện thông minh
+- 🌱 Đang học thêm về kiến trúc backend, bảo mật API và triển khai hệ thống
+- 📍 Đà Nẵng, Việt Nam
+
 ---
+
 <div align="center">
 
 ## 🛠️ Technology Stack
