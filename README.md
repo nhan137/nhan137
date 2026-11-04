@@ -10,7 +10,7 @@
 
 ### WELCOME TO MY PAGE 👏👏👏
 
-My name is Nguyễn Doãn Nhân. I am a Software Engineering graduate from Duy Tan University (GPA 3.30/4.0). I am deeply passionate about **Backend Development**, focusing on designing scalable RESTful APIs, optimizing relational databases, and building secure system architectures.
+My name is Nguyễn Doãn Nhân. I am a Software Engineering graduate from Duy Tan University (GPA 3.30/4.0).
 
 - 🎯 **Targeting:** Backend Developer role (Node.js & PHP)
 - 🏗️ **Experience:** Designing RESTful APIs, relational databases, and Role-Based Access Control (RBAC) across projects as Team Leader
