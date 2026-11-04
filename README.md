@@ -87,43 +87,6 @@ Mình là **Nguyễn Doãn Nhân**, kỹ sư phần mềm tốt nghiệp **Đạ
 
 <div align="center">
 
-## 🚀 Dự án nổi bật
-
-</div>
-
-### ⚡ [Smart EV Charging Station Management](https://github.com/nhan137/smart-Ev-charging-station)
-> Hệ thống web quản lý đặt lịch, thanh toán và vận hành trạm sạc xe điện. **Team Leader & Backend Developer** (nhóm 5 người).
-
-- 3 vai trò người dùng: **User, Manager, Admin**
-- Thiết kế cơ sở dữ liệu MySQL và xây dựng hệ thống **RESTful API** với Express.js + Sequelize
-- Xác thực **JWT**, mã hóa mật khẩu **bcrypt**, phân quyền theo vai trò, khôi phục mật khẩu qua email (Nodemailer)
-- Luồng đặt lịch và sạc: kiểm tra mã khuyến mãi, bắt đầu/dừng sạc, trạng thái **realtime** qua **Socket.IO**
-- Tích hợp thanh toán **VNPay** (sandbox), lịch sử hóa đơn, dashboard cho Admin, xuất CSV
-- Quy trình báo cáo sự cố/bảo trì (User → Manager → Admin)
-
-`Node.js` `Express` `Sequelize` `MySQL` `Socket.IO` `JWT` `VNPay` `React`
-
-### 🧑‍💼 HRTech System for Business (Capstone)
-> Hệ thống quản lý nhân sự cho doanh nghiệp. **Team Leader & Backend Developer** (nhóm 5 người).
-
-- Theo dõi vị trí **GPS** của nhân viên để xác thực hoạt động làm việc
-- Module **tính lương tự động** dựa trên dữ liệu làm việc
-- Module Admin quản lý nhân viên và dữ liệu hệ thống
-- Backend PHP theo mô hình front-controller, thiết kế cơ sở dữ liệu MySQL
-- Phối hợp công việc qua Trello, quản lý mã nguồn bằng Git/GitHub
-
-`PHP` `MySQL` `Bootstrap 5` `JavaScript` `XAMPP`
-
-| Dự án | Mô tả | Công nghệ | Link |
-|---|---|---|---|
-| **smart-Ev-charging-station** | Quản lý trạm sạc xe điện | TypeScript, Node.js | [Xem code](https://github.com/nhan137/smart-Ev-charging-station) |
-| **capstone1** | Đồ án Capstone (HRTech) | PHP, MySQL | [Xem code](https://github.com/nhan137/capstone1) |
-| **captone** | Đồ án Capstone | PHP, MySQL | [Xem code](https://github.com/nhan137/captone) |
-
----
-
-<div align="center">
-
 ## 🤝 Liên hệ
 
 [![Gmail](https://img.shields.io/badge/Gmail-nhannguyen.13072003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhannguyen.13072003@gmail.com)
