@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nguy%E1%BB%85n%20Do%C3%A3n%20Nh%C3%A2n&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%26%20PHP&descSize=20&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://raw.githubusercontent.com/nhan137/nhan137/main/assets/banner.svg" alt="header" width="100%"/>
 
 <a href="https://github.com/nhan137">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nh%C3%A2n+%F0%9F%91%8B;Backend+Developer+(Node.js+%2F+PHP);Building+reliable+web+systems+%F0%9F%9A%80;Open+to+work+%E2%80%94+Software+Engineering+graduate" alt="Typing SVG" />
@@ -96,6 +96,6 @@ Mình là **Nguyễn Doãn Nhân**, kỹ sư phần mềm tốt nghiệp **Đạ
 
 *Cảm ơn bạn đã ghé thăm hồ sơ của mình! ⭐*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/nhan137/nhan137/main/assets/footer.svg" alt="footer" width="100%"/>
 
 </div>
