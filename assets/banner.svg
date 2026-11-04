@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36bcf7"/>
+      <stop offset="1" stop-color="#7ee8c4"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <style>
+      .name { font: 700 52px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+      .role { font: 600 22px 'Segoe UI', Arial, sans-serif; fill: url(#accent); letter-spacing: 1px; }
+      .float1 { animation: f1 6s ease-in-out infinite; }
+      .float2 { animation: f2 8s ease-in-out infinite; }
+      @keyframes f1 { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+      @keyframes f2 { 0%,100% { transform: translateY(0); } 50% { transform: translateY(12px); } }
+      .fade { animation: fade 1.2s ease-out both; }
+      @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <rect width="1000" height="240" fill="url(#bg)"/>
+  <rect width="1000" height="240" fill="url(#grid)"/>
+  <circle class="float1" cx="880" cy="60" r="90" fill="#36bcf7" fill-opacity="0.10"/>
+  <circle class="float2" cx="120" cy="200" r="70" fill="#7ee8c4" fill-opacity="0.08"/>
+  <circle class="float1" cx="760" cy="200" r="40" fill="#ffffff" fill-opacity="0.05"/>
+  <g class="fade">
+    <text class="name" x="500" y="116" text-anchor="middle">Nguyễn Doãn Nhân</text>
+    <rect x="430" y="132" width="140" height="4" rx="2" fill="url(#accent)"/>
+    <text class="role" x="500" y="176" text-anchor="middle">Backend Developer  |  Node.js &amp; PHP</text>
+  </g>
+</svg>
