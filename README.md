@@ -85,7 +85,7 @@ Mình là **Nguyễn Doãn Nhân**, kỹ sư phần mềm tốt nghiệp **Đạ
 
 <div align="center">
 
-## 🤝 Liên hệ
+## 🤝 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-nhannguyen.13072003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhannguyen.13072003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nhan137-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhan137)
