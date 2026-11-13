@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nhan137/nhan137/main/assets/banner.svg" alt="header" width="100%"/>
+# Hi, I'm Nhân 👋
 
-<br/>
+### Backend Developer
+
+Software Engineering Graduate · Da Nang, Vietnam
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nhan137&label=Profile%20Views&color=0e75b6&style=flat)
 ![Repos](https://img.shields.io/badge/Repos-8-2ea44f?style=flat&logo=github&logoColor=white)
