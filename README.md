@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nhan137/nhan137/main/assets/banner.svg" alt="header" width="100%"/>
+# Hi, I'm Nhân 👋
 
-<a href="https://github.com/nhan137">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nh%C3%A2n+%F0%9F%91%8B;Backend+Developer+(Node.js+%2F+PHP);Building+reliable+web+systems+%F0%9F%9A%80;Open+to+work+%E2%80%94+Software+Engineering+graduate" alt="Typing SVG" />
-</a>
+### Backend Developer
 
-<br/>
+Software Engineering Graduate · Da Nang, Vietnam
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nhan137&label=Profile%20Views&color=0e75b6&style=flat)
 ![Repos](https://img.shields.io/badge/Repos-8-2ea44f?style=flat&logo=github&logoColor=white)
@@ -19,25 +17,7 @@
 
 <div align="center">
 
-## 👨‍💻 Giới thiệu
-
-</div>
-
-Mình là **Nguyễn Doãn Nhân**, kỹ sư phần mềm tốt nghiệp **Đại học Duy Tân** (chuyên ngành Software Engineering, GPA 3.30/4.0, danh hiệu *Good Student* năm học 2023-2024).
-
-- 🎯 Hướng đến vị trí **Backend Developer**, tập trung vào **Node.js** và **PHP**
-- 🏗️ Có kinh nghiệm thiết kế **RESTful API**, cơ sở dữ liệu quan hệ và hệ thống **phân quyền theo vai trò** qua 2 dự án nhóm, đảm nhiệm vai trò **Team Leader**
-- 🌱 Đang học thêm về kiến trúc backend, bảo mật API và triển khai hệ thống
-
----
-
-<div align="center">
-
 ## 🛠️ Technology Stack
-
-</div>
-
-<div align="center">
 
 **Backend**
 
@@ -71,7 +51,7 @@ Mình là **Nguyễn Doãn Nhân**, kỹ sư phần mềm tốt nghiệp **Đạ
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-**familiar**
+**Familiar**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -92,7 +72,7 @@ Mình là **Nguyễn Doãn Nhân**, kỹ sư phần mềm tốt nghiệp **Đạ
 
 <br/>
 
-*Cảm ơn bạn đã ghé thăm hồ sơ của mình! ⭐*
+*Thanks for visiting my profile! ⭐*
 
 <img src="https://raw.githubusercontent.com/nhan137/nhan137/main/assets/footer.svg" alt="footer" width="100%"/>
 
